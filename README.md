@@ -1,2 +1,7 @@
-# demo-clinica-dental-patron
-Demo web para Clínica Dental Patrón — diseñada por eterlab.
+# Clínica Dental Patrón
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
